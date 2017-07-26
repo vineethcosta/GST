@@ -1,3 +1,3 @@
-# helloworld2
-says hello world2  
-Actually,this is a branched repository . A commit which is a readme-edit branch and not master branch.
+# GST
+A web page on gst which gives you a basic idea on what gst is, and gives the price of the preferred item . (This web application is 
+still in developng stage).
